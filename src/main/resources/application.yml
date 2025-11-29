@@ -3,5 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/your-repo/configuration.git # Укажите ваш GitHub/GitLab/SVN репозиторий
+          uri: https://github.com/VitalyCode/SpringCloudDz
           searchPaths: '{application}'
